@@ -5,6 +5,8 @@ Make your Mental Health a Priority.
 A lot of students, professionals, and individuals in general struggle to find a perfect balance between their work and personal life.
 - Students often feel pressured to perform well in exams, this pressure often causes them to forget to take out time for themselves which might lead to mental exhaustion.
 - Due to the covid situation around 71% of corporate jobs have switched to work from home. However, a major disadvantage that arises from this is that employees find it difficult to have a good balance between their work and personal life.
+
+
 A report suggests that more than 43 million people struggle with mental illness. One of the hardest things for an individual is realizing that they do not have a good balance between their work and personal life. Especially healthcare professionals had to work 24/7, even during pandemic, which created havoc in their lives. 
 
 
