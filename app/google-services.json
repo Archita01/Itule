@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "983469197422",
+    "firebase_url": "https://itule-bd32e-default-rtdb.firebaseio.com",
+    "project_id": "itule-bd32e",
+    "storage_bucket": "itule-bd32e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983469197422:android:1aae65027f82e7bba2fe7f",
+        "android_client_info": {
+          "package_name": "com.example.itule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983469197422-pj4l8239igmdfq43902jr3ri8ibnrn59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.itule",
+            "certificate_hash": "09be086b3c27a881c21533213b854aa8c38d8662"
+          }
+        },
+        {
+          "client_id": "983469197422-svtnigtkolekq3nbnvoth5acvmkuoam7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyB11B5bUgfY3ETFOrXHlFeCjyTf-wy-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983469197422-svtnigtkolekq3nbnvoth5acvmkuoam7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

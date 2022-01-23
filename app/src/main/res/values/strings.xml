@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Itule</string>
+    <string name="default_web_client_id_auth">983469197422-svtnigtkolekq3nbnvoth5acvmkuoam7.apps.googleusercontent.com</string>
+    <string name="q2">How much stress do you experience everyday?(0-5)</string>
+    <string name="q3">How many new places do you visit?(0-5)</string>
+    <string name="q4">How many people are very close to you?(0-10)</string>
+    <string name="q5">How many people do you help achieve a better life?(0-10)</string>
+    <string name="q6">With how many people do you interact with daily?(0-10)</string>
+    <string name="q7">How many achievements are you proud of? (0-10)</string>
+    <string name="q8">How many times do you donate your time or money to good causes? (0-5)</string>
+    <string name="q9">What is your body mass index (BMI) range?
+1-Above 25, 2-Below 25</string>
+    <string name="q10">How well do you complete your weekly todo lists?  (0-10)</string>
+    <string name="q11">In a typical day, how many hours do you experience “absolute focus”? (0-10)</string>
+    <string name="q12">How many steps (in thousands) do you typically walk everyday?(0-10)</string>
+    <string name="q13">For how many years ahead is your life vision very clear for? (0-10)</string>
+    <string name="q14">About how long do you typically sleep? (0-10)</string>
+    <string name="q15">How many days of vacation do you lose every year?(0-10)</string>
+    <string name="q16">How often do you shout or sulk at somebody? 0-10)</string>
+    <string name="q17">How is your income?
+1-Not or hardly sufficient
+2-Sufficient</string>
+    <string name="q18">How many recognitions have you received in your life? (0-10)</string>
+    <string name="q19">How many hours do you spend daily doing what you are passionate about?(0-10)</string>
+    <string name="q20">Weekly, how many times do you have the chance to think about yourself? (0-10)</string>
+    <string name="q21">Your age range</string>
+    <string name="q22">What gender do you indentify yourself with?</string>
+</resources>

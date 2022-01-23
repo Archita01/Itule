@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/archi/Itule/app/src/main/res/drawable/answer_bg.xml" value="0.1259259259259259" />
+        <entry key="..\:/Users/archi/Itule/app/src/main/res/drawable/ic_menu_bdg.xml" value="0.1259259259259259" />
+        <entry key="..\:/Users/archi/Itule/app/src/main/res/drawable/ic_sc4.xml" value="0.16018518518518518" />
+        <entry key="..\:/Users/archi/Itule/app/src/main/res/drawable/ic_sc5.xml" value="0.16018518518518518" />
+        <entry key="..\:/Users/archi/Itule/app/src/main/res/drawable/login_btn_bg.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/archi/Itule/app/src/main/res/layout/activity_about.xml" value="0.1597222222222222" />
+        <entry key="..\:/Users/archi/Itule/app/src/main/res/layout/activity_facts.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/archi/Itule/app/src/main/res/layout/activity_login.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/archi/Itule/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/archi/Itule/app/src/main/res/layout/activity_menu.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/archi/Itule/app/src/main/res/layout/activity_profile.xml" value="0.22" />
+        <entry key="..\:/Users/archi/Itule/app/src/main/res/layout/activity_quiz.xml" value="0.15498938428874734" />
+        <entry key="..\:/Users/archi/Itule/app/src/main/res/layout/activity_register.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/archi/Itule/app/src/main/res/layout/activity_schedule.xml" value="0.22" />
+        <entry key="..\:/Users/archi/Itule/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/Users/archi/Itule/app/src/main/res/layout/activity_start.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/archi/Itule/app/src/main/res/layout/activity_video.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/archi/Itule/app/src/main/res/layout/activity_work_life.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/archi/Itule/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/archi/Itule/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.17407407407407408" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
